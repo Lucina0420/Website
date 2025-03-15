@@ -1,12 +1,15 @@
 .container {
-  color: white;
+  color: pink;
   text-align: center;
+  font-family: "Arial", sans-serif;
 }
 
 .cont {
   color: white;
+  font-family: "Georgia", serif;
 }
 
 body {
   background-color: black;
+  font-family: "Verdana", sans-serif;
 }
